@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a full stack developer @vnicomhub
-- 🔭 I’m currently working on Tutor Extra an online learning platform for university sudents in Nigeria
+- 🔭 I’m currently working on Tutor Extra an online learning platform for university sudents in Nigeria(Personal Project)
 - 🌱 I’m talk about  Frontend Web Development, Python & Vue.js on Twitter🤩 interested? follow @techiestephen
 - 👯 I’m looking to collaborate on (if you have any idea please let me know)
 - 🤔 I’m looking for help with ...
