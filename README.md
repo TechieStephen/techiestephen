@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 🌱 I’m talk about  Frontend Web Development, Python & Vue.js on Twitter🤩 interested? follow @techiestephen
 - 👯 I’m looking to collaborate on (if you have any idea please let me know)
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Frontend Web Development, backend Web Development(.Net), Python, Vue.js. 
+- 💬 Ask me about Frontend Web Development, backend Web Development(.Net), Python, Vue.js and react+
+- . 
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
